@@ -25,6 +25,6 @@ export const downloadImg = (url) => {
     canvas = null;
   }
   img.onload = download;
-  img.url = imgUrl;
+  img.url = url;
 }
 ```

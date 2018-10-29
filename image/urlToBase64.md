@@ -6,7 +6,7 @@
 ### 例子
 
 ```
-export const downloadImg = (url) => {
+export const downloadImg = (url,callback) => {
   const img = new Image();
   img.crossOrigin = 'Anonymous';
   img.onload = () => {
