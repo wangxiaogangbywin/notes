@@ -1,6 +1,6 @@
 ### 下载图片
 
-<a>的 download 属性有局限性
+a 标签的 download 属性有局限性
 可以用 FileSaver.js 实现下载
 https://github.com/eligrey/FileSaver.js
 
