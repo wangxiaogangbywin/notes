@@ -1,6 +1,6 @@
 # notes
 
-I think what needs to be recorded and worry about forgetting...
+I think what needs to be recorded or worry about forgetting...
 
 ## Image
 
